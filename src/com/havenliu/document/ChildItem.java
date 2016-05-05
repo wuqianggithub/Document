@@ -16,10 +16,10 @@ package com.havenliu.document;
  * @author   Administrator
  * @version  
  * @since    JDK 1.6
- * @see 	 
+ * @see 	 测试
  */
 public class ChildItem {
-
+	
 	private String evaluatorItemChildName;
 	private String evaluatorTaskScore;
 	public String getEvaluatorItemChildName() {
