@@ -20,5 +20,9 @@ package com.havenliu.document;
  */
 public class Test {
 
+	public static void main(String[] args) {
+		
+	}
+	
 }
 
